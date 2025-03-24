@@ -32,7 +32,7 @@ This project is a **Stripe-inspired financial dashboard** built using **React**.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/logixfleet-dashboard.git
+git clone https://github.com/Guantaijp/logixfleet-frontend
 cd logixfleet-dashboard
 ```
 
@@ -72,5 +72,4 @@ While this project meets the core requirements, here are some potential improvem
 ✅ **Better Data Handling** – Replace mock data with a real backend API to enable dynamic content.  
 ✅ **Unit & Integration Tests** – Improve reliability by implementing tests using Jest & React Testing Library.  
 ✅ **Accessibility Enhancements** – Enhance keyboard navigation and screen reader support for an inclusive experience.  
-✅ **Deployment** – Deploy the project to [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/) for a live demo and easier access.  
 
